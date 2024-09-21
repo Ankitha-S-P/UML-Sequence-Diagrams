@@ -15,7 +15,7 @@ The sequence diagram outlines the following steps in an e-commerce transaction:
 5. **Invoice Generation & Confirmation:** Once the transaction is complete, the website generates an invoice and confirms the delivery to the customer.
 6. **Error Handling:** If the registration or payment fails, the checkout is marked as failed.
 
-## Components Involved
+## Actors/Lifelines Used
 
 - **Customer:** Interacts with the website to browse, order, and pay for products.
 - **Website:** Fetches and displays products, processes orders, and interacts with the backend, payment gateway, and delivery system.

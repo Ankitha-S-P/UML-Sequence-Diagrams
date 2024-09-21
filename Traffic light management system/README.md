@@ -20,7 +20,7 @@ The sequence diagram demonstrates the following flow:
 4. **Error Handling (Sensor Failure):**
    - In case a sensor stops sending data, the system detects the failure and switches to a default traffic light timing mode to ensure continued traffic flow.
 
-## Actors/LifelineS Used
+## Actors/Lifelines Used
 
 - **Traffic Sensor:** Collects real-time traffic data and sends it to the central control system.
 - **Central Control System:** Analyzes sensor data and determines the appropriate traffic light signal based on predefined conditions.

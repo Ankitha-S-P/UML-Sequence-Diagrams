@@ -29,7 +29,3 @@ The sequence diagram outlines the following steps in an e-commerce transaction:
 - **Messages:** Represent communication between components, such as fetching product details, payment confirmation, and delivery scheduling.
 - **Alt Block:** Handles alternate scenarios, like registration success or failure and checkout failure.
 - **Loop:** Repetitive processes, such as browsing for products, are captured in loops.
-
-## Usage
-
-This diagram can be used to understand the flow of an e-commerce management system and can serve as a reference for developers working on similar systems. It provides a clear picture of how different components interact and handle core functionalities like browsing, payment processing, and order delivery.
